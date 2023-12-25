@@ -1,0 +1,5 @@
+Q. Can you use the emergency repair and engineering suite abilities to heal a unit twice?
+A. Yes, it's only a problem if it's the same ability twice.
+
+Q. Do you gain mass points when engineer models are destroyed?
+A. Only if another engineer model is within range.
